@@ -1,0 +1,6 @@
+{
+  "name": "Store Operations Dashboard",
+  "description": "A design-forward dashboard for Bean Spot store operations, powered by real-time Google Sheets data integration via Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
